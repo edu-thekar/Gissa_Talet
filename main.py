@@ -1,0 +1,1 @@
+print(f"hej {input("vem fan e du då? ")} och välkommen till spelet!")
